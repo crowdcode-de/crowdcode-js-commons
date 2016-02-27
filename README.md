@@ -1,2 +1,4 @@
-# crowdcode-js-commons
-Crowdcode JS Commons
+# Crowdcode Commons
+
+Created by Crowdcode GmbH & Co. KG
+![https://www.crowdcode.io](https://www.crowdcode.io)

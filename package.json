@@ -1,8 +1,9 @@
 {
   "name": "crowdcode",
-  "version": "0.0.1",
-  "description": "Crowdcode common package",
-  "main": "index.js",
+  "version": "0.0.2",
+  "description": "Crowdcode Commons",
+  "github": ""
+  "main": "crowdcode-commons.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
